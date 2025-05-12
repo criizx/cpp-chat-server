@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/rr/cpp-chat-server/build",
+  "command": "/usr/bin/c++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DBOOST_THREAD_DYN_LINK -DBOOST_THREAD_NO_LIB  -std=gnu++20 -o CMakeFiles/chat_server.dir/src/main.cpp.o -c /home/rr/cpp-chat-server/src/main.cpp",
+  "file": "/home/rr/cpp-chat-server/src/main.cpp",
+  "output": "CMakeFiles/chat_server.dir/src/main.cpp.o"
+}
+]
